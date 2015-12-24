@@ -1,0 +1,5 @@
+- diff -u and fs  :show differences between two texts
+- git diff file1 files2 :gives you differences between two commits
+- git log --stat :shows which files have been changed in each commit
+- git clone "respository link" :clones a repository into the directory
+- git checkout :lets you checkout a repository on the last commit
