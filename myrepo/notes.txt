@@ -3,3 +3,12 @@
 - git log --stat :shows which files have been changed in each commit
 - git clone "respository link" :clones a repository into the directory
 - git checkout :lets you checkout a repository on the last commit
+
+Lesson 2
+- git init :creates a new repository
+- git status :lets you see what you've done on your repository
+- git add :adds a files to the staging area
+- git commit :commits files
+- git diff : compares files from the working directory and staging area
+- git diff --staged: compares files from recent commit and staging area
+
